@@ -1,0 +1,28 @@
+/* style projet.html */
+nav {
+    display: flex;
+}
+
+ul {
+    display: inline-flex;
+}
+
+li {
+    margin: 20px;
+}
+
+a {
+    list-style-type: none;
+}
+
+body {
+    font-family: "sometype mono";
+    background-image: linear-gradient(to right top, #27bc4d, #00d4bb, #59e2fd, #cbebff, #ffffff);
+    color: white;
+}
+.video{
+    width: 950px;
+}
+main{
+    text-align: center;
+}
